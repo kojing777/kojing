@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: #000;
+    color: #fff;
+    font-family: "Playfair Display";
+
+}
+
+#name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    background-color: #000;
+    background-color: rgb(104, 149, 149);
+    background-color: rgba(104, 149, 149,0.8);
+
+}
+span{
+    background-color: red;
+}
+.hellow{
+    background-color: yellow;
+    ;
+}
+.name{
+    background-color: red;
+    font-size: 30px;
+    font-weight: 200;
+    font-style: italic;
+    text-align: center;
+}
+*body{
+    background-color: aqua;
+    padding: 20;
+    margin: 20;
+}
